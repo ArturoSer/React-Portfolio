@@ -34,5 +34,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArturoSer/React-Portfolio.git"
+  },
+  "author": "Arturo Serrato",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/ArturoSer/React-Portfolio/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
