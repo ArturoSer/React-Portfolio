@@ -1,0 +1,12 @@
+.content {
+    padding-top: 15px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.body {
+    background-color: aquamarine;
+    color: blanchedalmond;
+    max-width: 1400px;
+    margin: auto;
+}
