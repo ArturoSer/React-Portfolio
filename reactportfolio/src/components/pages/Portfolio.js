@@ -3,7 +3,7 @@ import PortfolioComponent from '../PortfolioContent';
 
 export default function Portfolio() {
     return (
-        <div clasName="content">
+        <div className="content">
             <h2>Portfolio</h2>
             <PortfolioComponent />
         </div>

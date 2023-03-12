@@ -1,6 +1,7 @@
 import React from 'react';
 import ResumeImg from '../../assets/resume.png';
 
+
 const styles = {
     img: {
         border: "transparent",
@@ -11,7 +12,7 @@ export default function Resume() {
     return (
         <div className="content">
             <h2>Resume</h2>
-            <img style={styles.img} target="_blank" rel="noreforrer" href={ResumeImg}></img>
+            <img style={styles.img} src={ResumeImg} target="_blank" rel="noreforrer"></img>
             <br></br>
             <br></br>
 
