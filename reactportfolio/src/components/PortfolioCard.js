@@ -9,8 +9,8 @@ const styles = {
         justifyContent: 'center',
 },
 portfolioCards: {
-    width: '70%',
-    height: '70%',
+    width: '500px',
+    height: '600px',
 },
 cardImages: {
     height: '50%',
@@ -19,7 +19,7 @@ cardImages: {
 
 function PortfolioCard(props) {
     return (
-        <Row xs={1} md={2} lg={3} styles={styles.portfolioCardContainer}>
+        <Row styles={styles.portfolioCardContainer}>
             <>
             {props.portfolioContent.map((item) => (
                 <Col className='mb-3'>

@@ -5,6 +5,7 @@ import ResumeImg from '../../assets/resume.png';
 const styles = {
     img: {
         border: "transparent",
+        width: "400px"
     },
 };
 
