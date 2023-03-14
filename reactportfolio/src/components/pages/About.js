@@ -10,7 +10,8 @@ export default function About() {
             </div>
             <p>
                 <br />
-
+                Hello Everyone! My name is Arturo Serrato and I am currently a Full stack web developer from UW.
+                My hobbies are playing Valorant competitively and also reading manga and watching anime! 🚀
 
 
                 <br />
